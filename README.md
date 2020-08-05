@@ -19,7 +19,7 @@ Después de instalar las dependencias (`npm install`) en las dos carpetas, podé
 
 Espero hayás disfrutado de la clase y pongás en práctica lo aprendido.
 
-**Made with ❤️ by: [Javi Herrera](https://javier-herrera.com)**
+**Made with ❤️ by: Javi Herrera => [Seguime](https://javier-herrera.com)**
 
 *Si te parece interesante este tipo de contenido, puedes agradecerme con un Follow en mis siguientes redes sociales. Lo estimaría un montón.*
 
