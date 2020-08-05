@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "author": "Javier Herrera [Follow me in Instragram => @thefullstackdevs]",
+  "version": "1.0.0",
+  "description": "Basic server with Express",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon -L ./src/App.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "5.21.3"
+  }
+}
